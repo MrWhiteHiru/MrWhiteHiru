@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MR WHITE HIRU</h1>
 <h3 align="center">A passionate full stack developer from SRI LANKA</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/king04aman/king04aman/blob/main/assets/animation.gif?raw=true">
 
 - 🌱 I’m currently learning **cyber security**
 
