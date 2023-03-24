@@ -24,3 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrWhiteHiru&show_icons=true&locale=en&layout=compact" alt="MrWhiteHiru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrWhiteHiru&show_icons=true&locale=en" alt="MrWhiteHiru" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/king04aman/king04aman/00b85fd776951007bde30c7bcae1e55ecbbc0a8e/assets/snake.svg">             
+  <img src="https://github.com/king04aman/king04aman/blob/main/assets/line.gif?raw=true">             
+</p>
