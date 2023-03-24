@@ -1,5 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm MR WHITE HIRU</h1>
+<p align="center">      
+  <img src="https://github.com/king04aman/king04aman/blob/main/assets/line.gif?raw=true">             
+</p>
+
 <h3 align="center">A passionate full stack developer from SRI LANKA</h3>
+<p align="center">      
+  <img src="https://github.com/king04aman/king04aman/blob/main/assets/line.gif?raw=true">             
+</p>
 <img align="right" alt="Coding" width="400" src="https://github.com/king04aman/king04aman/blob/main/assets/animation.gif?raw=true">
 
 - 🌱 I’m currently learning **cyber security**
@@ -9,7 +17,9 @@
 - 📫 How to reach me **hiruwithcode@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
+<p align="center">      
+  <img src="https://github.com/king04aman/king04aman/blob/main/assets/line.gif?raw=true">             
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mr_white_hiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr_white_hiru" height="30" width="40" /></a>
