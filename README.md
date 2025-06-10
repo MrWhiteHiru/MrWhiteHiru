@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **cyber security**
 
-- 💬 Ask me about **WEB DEV & GAME DEV**
+- 💬 Ask me about **cyber security and web dev**
 
 - 📫 How to reach me **hiruwithcode@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **: Even NASA got hacked… by a teenager!**
 <p align="center">      
   <img src="https://github.com/king04aman/king04aman/blob/main/assets/line.gif?raw=true">             
 </p>
